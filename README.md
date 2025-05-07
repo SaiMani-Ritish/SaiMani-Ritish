@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Full-Stack Development<br>🎯 Goals: To Get Better</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Full-Stack Development<br></p>
 
 ###
 
