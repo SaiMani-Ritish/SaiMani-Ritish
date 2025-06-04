@@ -41,8 +41,6 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saimani-ritish&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=saimani-ritish&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compac](https://ionicabizau.github.io/github-profile-languages/?user=saimani-ritish)t)
 
----
-[![](https://visitcount.itsvg.in/api?id=saimani-ritish&icon=0&color=0)](https://visitcount.itsvg.in)
 ###
