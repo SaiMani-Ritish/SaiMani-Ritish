@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ritish and I'm a Software Developer from Seattle</p>
+<p align="left">My name is Ritish and I'm a Programmer from Seattle</p>
 
 ###
 
