@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Full-Stack Development<br></p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently interested in learning Full-Stack Development and Machine Learning<br></p>
 
 ###
 
